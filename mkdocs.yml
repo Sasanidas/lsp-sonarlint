@@ -19,8 +19,8 @@ extra:
     - icon: fontawesome/brands/gitter
       link: https://gitter.im/emacs-lsp/lsp-mode
 
-repo_name: emacs-lsp/lsp-ui
-repo_url: https://github.com/emacs-lsp/lsp-ui
+repo_name: Sasanidas/lsp-sonarlint
+repo_url: https://github.com/Sasanidas/lsp-sonarlint
 
 markdown_extensions:
   - pymdownx.superfences
